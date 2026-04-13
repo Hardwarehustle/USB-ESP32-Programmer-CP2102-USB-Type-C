@@ -1,11 +1,5 @@
 # 🔌 USB ESP32 Programmer — CP2102 USB Type-C to UART Bridge with Auto-Reset
 
-> **Designed by:** Janardhan BV  
-> **Tool:** EasyEDA  
-> **IC:** Silicon Labs CP2102 (QFN-28)  
-> **USB Connector:** USB Type-C  
-> **Date:** April 2024 | **Rev:** 1.0
-
 ---
 
 ## 📌 Project Overview
